@@ -1,0 +1,7 @@
+apple,orange,0.85
+toothpaste,toothbrush,0.9
+toothbrush,teacup,0.98
+tea,teacup,0.95
+iphone,headset,0.94
+postcard,stamp,0.97
+tablecloth,poker,0.96

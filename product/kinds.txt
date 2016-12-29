@@ -1,0 +1,4 @@
+apple,orange,toothpaste,toothbrush,toothbrush,teacup,tea,
+iphone,headset,postcard,stamp,tablecloth,poker,
+towel,basin,banana,fish,pork,chicken,beef,milk,
+dustercloth,corn,pill,
