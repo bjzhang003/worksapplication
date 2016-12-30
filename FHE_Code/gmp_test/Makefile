@@ -1,5 +1,5 @@
-main:main.cpp
-	g++ main.cpp -o m -L /usr/share/lib -lgmp -lgmpxx
+gmp_test:gmp_test.cpp
+	g++ gmp_test.cpp -o gmp_test -L /usr/local/lib -lgmp -lgmpxx
 
 clean:
-	rm m
+	rm gmp_test

@@ -41,6 +41,7 @@ void  TestIt(long p, long r, long c, long _k, long w,
   vector<long> gens1, ords1;
   convert(gens1, gens);
   convert(ords1, ords);
+
   FHEcontext context(m, p, r, gens1, ords1);
   buildModChain(context, L, c);
 
@@ -172,6 +173,8 @@ void  TestIt(long p, long r, long c, long _k, long w,
  */
 int main(int argc, char *argv[])
 {
+	cout<<endl<<endl<<"zhangbaojia"<<endl<<endl<<endl;
+
   ArgMapping amap;
 
   long p=2;
